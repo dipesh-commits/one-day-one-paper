@@ -6,4 +6,4 @@ I am trying to go through a paper per day about machine learning and deep learni
 ## Computer Vision
 
 * Image Segmentation
-- [x]A Large-Scale Benchmark for Food Image Segmentation  [Paper](https://arxiv.org/pdf/2105.05409v1.pdf "Paper title")
+- [x] A Large-Scale Benchmark for Food Image Segmentation | [Paper](https://arxiv.org/pdf/2105.05409v1.pdf "Paper title")
