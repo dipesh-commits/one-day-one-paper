@@ -6,5 +6,8 @@ I am trying to go through a paper per day about machine learning and deep learni
 ## Computer Vision
 
 ### Image Segmentation
-- [x] A Large-Scale Benchmark for Food Image Segmentation | [Paper](https://arxiv.org/pdf/2105.05409v1.pdf "Paper title")
-- [x] Mask R-CNN | [Paper](https://arxiv.org/pdf/1703.06870.pdf "Paper title")
+- [x] Mask R-CNN | [Paper](https://arxiv.org/pdf/1703.06870.pdf "Paper title") | [Code](https://github.com/facebookresearch/maskrcnn-benchmark "Code title")
+- [x] Image Segmentation Algorithms Overview | [Paper](https://arxiv.org/ftp/arxiv/papers/1707/1707.02051.pdf "Paper title")
+- [x] A Large-Scale Benchmark for Food Image Segmentation | [Paper](https://arxiv.org/pdf/2105.05409v1.pdf "Paper title") | [Code](https://github.com/PaddlePaddle/PaddleSeg "Code Title")
+
+ 
