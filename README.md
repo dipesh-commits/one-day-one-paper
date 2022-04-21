@@ -12,4 +12,7 @@ I am trying to go through a paper per day about machine learning and deep learni
 - [x] PointRend: Image Segmentation as Rendering | [Paper](https://arxiv.org/pdf/1912.08193v2.pdf "Paper title") | [Code](https://github.com/facebookresearch/detectron2/tree/main/projects/PointRend "Code title")
 - [x] A Large-Scale Benchmark for Food Image Segmentation | [Paper](https://arxiv.org/pdf/2105.05409v1.pdf "Paper title") | [Code](https://github.com/PaddlePaddle/PaddleSeg "Code Title")
 
+### Video Segmentation
+- [x] A Survey on Deep Learning Technique for Video Segmentation | [Paper](https://arxiv.org/pdf/2107.01153.pdf "Paper title")
+
  
