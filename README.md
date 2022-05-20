@@ -18,6 +18,7 @@ I am trying to go through a paper per day about machine learning and deep learni
 - [x] A Survey on Deep Learning Technique for Video Segmentation | [Paper](https://arxiv.org/pdf/2107.01153.pdf "Paper title")
 
 ### Generative Adversarial Networks(GAN)
+- [x] A Style-Based Generator Architecture for Generative Adversarial Networks | [Paper](https://arxiv.org/pdf/1812.04948.pdf "Paper title") | [Code](https://github.com/NVlabs/stylegan "Code title")
 - [x] Only a Matter of Style: Age Transformation Using a Style-Based Regression Model | [Paper](https://arxiv.org/pdf/2102.02754.pdf "Paper title") | [Code](https://yuval-alaluf.github.io/SAM/ "Code title")
 
  
