@@ -19,6 +19,7 @@ I am trying to go through a paper per day about machine learning and deep learni
 
 ### Generative Adversarial Networks(GAN)
 - [x] A Style-Based Generator Architecture for Generative Adversarial Networks | [Paper](https://arxiv.org/pdf/1812.04948.pdf "Paper title") | [Code](https://github.com/NVlabs/stylegan "Code title")
+- [x] StyleRig: Rigging StyleGAN for 3D Control over Portrait Images | [Paper](https://arxiv.org/pdf/2004.00121.pdf "Paper title")
 - [x] Only a Matter of Style: Age Transformation Using a Style-Based Regression Model | [Paper](https://arxiv.org/pdf/2102.02754.pdf "Paper title") | [Code](https://yuval-alaluf.github.io/SAM/ "Code title")
 
  
