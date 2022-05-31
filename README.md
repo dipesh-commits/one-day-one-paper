@@ -25,4 +25,7 @@ I am trying to go through a paper per day about machine learning and deep learni
 ### 3D Morphable Models
 - [x] 3D Morphable Face Models -- Past, Present and Future | [Paper](https://arxiv.org/pdf/1909.01815.pdf "Paper title")
 
+### 3D Reconstruction
+- [x] A Review On 3D Reconstruction Techniques From 2D Images | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-37629-1_37 "Paper title")
+
  
