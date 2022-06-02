@@ -28,5 +28,6 @@ I am trying to go through a paper per day about machine learning and deep learni
 ### 3D Reconstruction
 - [x] A Review On 3D Reconstruction Techniques From 2D Images | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-37629-1_37 "Paper title")
 - [x] 3D Face Reconstruction From Single 2D Image Using Distinctive Features | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9210569 "Paper title")
+- [x] Towards Fast, Accurate and Stable 3D Dense Face Alignment | [Paper](https://guojianzhu.com/assets/pdfs/3162.pdf "Paper title")
 
  
