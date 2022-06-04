@@ -21,6 +21,7 @@ I am trying to go through a paper per day about machine learning and deep learni
 - [x] A Style-Based Generator Architecture for Generative Adversarial Networks | [Paper](https://arxiv.org/pdf/1812.04948.pdf "Paper title") | [Code](https://github.com/NVlabs/stylegan "Code title")
 - [x] StyleRig: Rigging StyleGAN for 3D Control over Portrait Images | [Paper](https://arxiv.org/pdf/2004.00121.pdf "Paper title")
 - [x] Only a Matter of Style: Age Transformation Using a Style-Based Regression Model | [Paper](https://arxiv.org/pdf/2102.02754.pdf "Paper title") | [Code](https://yuval-alaluf.github.io/SAM/ "Code title")
+- [x] DeepFaceLab: Integrated, flexible and extensible face-swapping framework | [Paper](https://arxiv.org/pdf/2005.05535.pdf "Paper title")
 
 ### 3D Morphable Models
 - [x] 3D Morphable Face Models -- Past, Present and Future | [Paper](https://arxiv.org/pdf/1909.01815.pdf "Paper title")
