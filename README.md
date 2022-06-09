@@ -33,3 +33,4 @@ I am trying to go through a paper per day about machine learning and deep learni
 - [x] 3D Face Reconstruction From Single 2D Image Using Distinctive Features | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9210569 "Paper title")
 - [x] Towards Fast, Accurate and Stable 3D Dense Face Alignment | [Paper](https://guojianzhu.com/assets/pdfs/3162.pdf "Paper title")
 - [x] Neural Head Avatars from Monocular RGB Videos | [Paper](https://arxiv.org/pdf/2112.01554.pdf "Paper title") | [Code](https://github.com/philgras/neural-head-avatars "Code title")
+- [x] Detail 3D Face Reconstruction Based on 3DMM and Displacement Map | [Paper](https://www.hindawi.com/journals/js/2021/9921101/ "Paper title")
