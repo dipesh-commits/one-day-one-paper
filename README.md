@@ -27,6 +27,7 @@ I am trying to go through a paper per day about machine learning and deep learni
 ### 3D Morphable Models
 - [x] 3D Morphable Face Models -- Past, Present and Future | [Paper](https://arxiv.org/pdf/1909.01815.pdf "Paper title")
 - [x] Learning a model of facial shape and expression from 4D scans | [Paper](https://ps.is.mpg.de/uploads_file/attachment/attachment/400/paper.pdf "Paper title") | [Code](https://github.com/TimoBolkart/TF_FLAME "Code title")
+- [x] Statistical modeling of facial aging based on 3D scans | [Paper](https://edoc.unibas.ch/1253/1/PhD_Thesis_Paysan_pdfa.pdf "Paper title")
 
 ### 3D Reconstruction
 - [x] A Review On 3D Reconstruction Techniques From 2D Images | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-37629-1_37 "Paper title")
