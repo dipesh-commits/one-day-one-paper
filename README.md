@@ -36,6 +36,7 @@ I am trying to go through a paper per day about machine learning and deep learni
 - [x] Towards Fast, Accurate and Stable 3D Dense Face Alignment | [Paper](https://guojianzhu.com/assets/pdfs/3162.pdf "Paper title")
 - [x] Neural Head Avatars from Monocular RGB Videos | [Paper](https://arxiv.org/pdf/2112.01554.pdf "Paper title") | [Code](https://github.com/philgras/neural-head-avatars "Code title")
 - [x] Detail 3D Face Reconstruction Based on 3DMM and Displacement Map | [Paper](https://www.hindawi.com/journals/js/2021/9921101/ "Paper title")
+- [x] Synergy between 3DMM and 3D Landmarks for Accurate 3D Facial Geometry | [Paper](https://arxiv.org/pdf/2110.09772.pdf "Paper title") | [Code](https://github.com/choyingw/SynergyNet "Code title")
 
 ### Face Reenactment
 - [x] Face2Face: Real-time Face Capture and Reenactment of RGB Videos | [Paper](https://arxiv.org/pdf/2007.14808.pdf "Paper title")
