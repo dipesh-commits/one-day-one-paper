@@ -24,6 +24,7 @@ I am trying to go through a paper per day about machine learning and deep learni
 - [x] DeepFaceLab: Integrated, flexible and extensible face-swapping framework | [Paper](https://arxiv.org/pdf/2005.05535.pdf "Paper title")
 - [x] High Resolution Face Age Editing | [Paper](https://arxiv.org/pdf/2005.04410.pdf "Paper title") | [Code](https://github.com/InterDigitalInc/HRFAE "Code title")
 - [x] Generate Identity-Preserving Faces by Generative Adversarial Networks | [Paper](https://arxiv.org/pdf/1706.03227.pdf "Paper title")
+- [x] Re-Aging GAN: Toward Personalized Face Age Transformation | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Makhmudkhujaev_Re-Aging_GAN_Toward_Personalized_Face_Age_Transformation_ICCV_2021_paper.pdf "Paper title")
 
 ### 3D Morphable Models
 - [x] A Morphable Model For The Synthesis Of 3D Faces | [Paper](https://cseweb.ucsd.edu/~ravir/6998/papers/p187-blanz.pdf "Paper title")
