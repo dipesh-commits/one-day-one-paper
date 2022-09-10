@@ -45,3 +45,7 @@ I am trying to go through a paper per day about machine learning and deep learni
 ### Face Reenactment
 - [x] Face2Face: Real-time Face Capture and Reenactment of RGB Videos | [Paper](https://arxiv.org/pdf/2007.14808.pdf "Paper title")
 - [x] HifiFace: 3D Shape and Semantic Prior Guided High Fidelity Face Swapping | [Paper](https://arxiv.org/abs/2106.09965)
+
+### Big Data Technologies
+- [x] The Google File System | [Paper](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf "Paper title")
+- [x] MapReduce: Simplified Data Processing on Large Clusters | [Paper](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf "Paper title")
